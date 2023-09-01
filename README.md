@@ -12,7 +12,7 @@
 2. [2739. 구구단](https://www.acmicpc.net/problem/2739)
 3. [17614. 369](https://www.acmicpc.net/problem/17614)
 4. [3040. 백설공주와 일곱난쟁이](https://www.acmicpc.net/problem/3040)
-5. [11645. 아스키코드](https://www.acmicpc.net/problem/11645)
+5. [11654. 아스키코드](https://www.acmicpc.net/problem/11654)
 6. [14681. 사분면 고르기](https://www.acmicpc.net/problem/14681)
 7. [2753. 윤년](https://www.acmicpc.net/problem/2753)
 8. [1712. 손익분기점](https://www.acmicpc.net/problem/1712)
