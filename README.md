@@ -39,7 +39,7 @@
 2. [10162. 전자레인지](https://www.acmicpc.net/problem/10162)
 3. [1439. 뒤집기](https://www.acmicpc.net/problem/1439)
 4. [1316. 그룹 단어 체커](https://www.acmicpc.net/problem/1316)
-5. [2914. 크로아티아 알파벳](https://www.acmicpc.net/problem/2914)
+5. [2941. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)
 6. [5618. 공약수](https://www.acmicpc.net/problem/5618)
 7. [4619. 루트](https://www.acmicpc.net/problem/4619)
 8. [2309. 일곱난쟁이](https://www.acmicpc.net/problem/2309)
