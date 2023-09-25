@@ -99,7 +99,7 @@
 8. [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 9. [14888. 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 10. [7562. 나이트의 이동](https://www.acmicpc.net/problem/7562)
-11. [1189. 컴백홈(https://www.acmicpc.net/problem/1189)
+11. [1189. 컴백홈](https://www.acmicpc.net/problem/1189)
 12. [10026. 적록색약](https://www.acmicpc.net/problem/10026)
 13. [6593. 상범 빌딩](https://www.acmicpc.net/problem/6593)
 14. [7576. 토마토](https://www.acmicpc.net/problem/7576)
