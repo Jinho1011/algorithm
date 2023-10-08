@@ -22,7 +22,7 @@ while T > 0:
     clickC += T // c
     T %= c
 
-print(clickA, clickB, clickC)~
+print(clickA, clickB, clickC)
 
 """
 시간 조절용 버튼 a 300s / b 60s / c 10s
