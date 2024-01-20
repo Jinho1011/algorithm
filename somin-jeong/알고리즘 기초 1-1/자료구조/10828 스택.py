@@ -3,10 +3,9 @@ import sys
 N = int(sys.stdin.readline())
 
 stack = []
-size = 0
 
 for i in range(N):
-    input_str=sys.stdin.readline()
+    input_str = sys.stdin.readline()
     if input_str.startswith("push"):
         stack.append(input_str.split()[1])
     if input_str.startswith("pop"):
